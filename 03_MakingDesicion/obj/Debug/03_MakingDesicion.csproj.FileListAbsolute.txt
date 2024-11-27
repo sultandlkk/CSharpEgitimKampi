@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\03_MakingDesicion\03_MakingDesicion\bin\Debug\03_MakingDesicion.exe.config
+C:\Users\acer\source\repos\03_MakingDesicion\03_MakingDesicion\bin\Debug\03_MakingDesicion.exe
+C:\Users\acer\source\repos\03_MakingDesicion\03_MakingDesicion\bin\Debug\03_MakingDesicion.pdb
+C:\Users\acer\source\repos\03_MakingDesicion\03_MakingDesicion\obj\Debug\03_MakingDesicion.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\03_MakingDesicion\03_MakingDesicion\obj\Debug\03_MakingDesicion.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\03_MakingDesicion\03_MakingDesicion\obj\Debug\03_MakingDesicion.exe
+C:\Users\acer\source\repos\03_MakingDesicion\03_MakingDesicion\obj\Debug\03_MakingDesicion.pdb
