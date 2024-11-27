@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\CSharpEgitimKampi\09_databaseproject\bin\Debug\09_databaseproject.exe.config
+C:\Users\acer\source\repos\CSharpEgitimKampi\09_databaseproject\bin\Debug\09_databaseproject.exe
+C:\Users\acer\source\repos\CSharpEgitimKampi\09_databaseproject\bin\Debug\09_databaseproject.pdb
+C:\Users\acer\source\repos\CSharpEgitimKampi\09_databaseproject\obj\Debug\09_databaseproject.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CSharpEgitimKampi\09_databaseproject\obj\Debug\09_databaseproject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CSharpEgitimKampi\09_databaseproject\obj\Debug\09_databaseproject.exe
+C:\Users\acer\source\repos\CSharpEgitimKampi\09_databaseproject\obj\Debug\09_databaseproject.pdb
